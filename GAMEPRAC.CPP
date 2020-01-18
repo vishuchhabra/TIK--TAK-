@@ -4,7 +4,9 @@
 #include<stdlib.h>
 #include<graphics.h>
 void check(char &p,char &q,char &r,char &s,char &t,char &u,char &v,char &w,char &z)
- { if(p==q&&q==r)
+ {
+ 
+    if(p==q&&q==r)
     {  gotoxy(10,17);
     cout<<"user win for "<<p;
     gotoxy(10,19) ;
@@ -137,5 +139,6 @@ cout<<"press any key to continue the game ............."<<endl;
     printf("number is invalid ");
     }
     a=0;
-  }  getch();
+  } 
+   getch();
    }
