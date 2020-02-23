@@ -70,7 +70,7 @@ void check(char &p,char &q,char &r,char &s,char &t,char &u,char &v,char &w,char 
     }}
 void  main()
 {clrscr();
-cout<<"This kids game was developed by VISHU CHHABRA in hostel no. 6\n PANJAB UNIVERSITY at the time of holidays\n Also its name is given by VISHU CHHABRA which  is following as :-\n TIC TAC  "<<endl;
+cout<<"This is Kids Game ,Don't try at Home........"<<endl;
 cout<<"press any key to continue the game ............."<<endl;
  getch();
  system("cls");
